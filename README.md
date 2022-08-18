@@ -1,2 +1,2 @@
 # todolist
-Create a todo list with due date for each task.
+Create a todo list with due date for each task using javascript.
